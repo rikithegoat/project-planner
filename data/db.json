@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner AGAIN!!!",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "welcome to my youtube channel",
+      "complete": false
+    },
+    {
+      "title": "make a new website",
+      "details": "blah blah blah",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "hello wolrd",
+      "details": "blah bleh bloh",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "make a new website",
+      "details": "he he ho ho\n",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
